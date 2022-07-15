@@ -11,7 +11,7 @@ A modern Web-Based music player made using ReactJS
 
 ## Deployment
 
-Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://music-player-dun.vercel.app/)
+Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://spotify.vinayaksingh.in/)
 
 
 ## Features
@@ -31,16 +31,6 @@ Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clic
 [![React Redux](https://img.shields.io/badge/React%20Redux-7.2.6-lightgrey)](#)
 
 [![React Redux](https://img.shields.io/badge/Redux-4.1.2-red)](#)
-
-
-
-## Contributors
-- [Jessej Samuel](https://github.com/jessej-samuel)
-- [Ishaan Bedi](https://github.com/ishaanbedi)
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
