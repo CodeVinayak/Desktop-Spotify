@@ -11,7 +11,7 @@ A modern Web-Based music player made using ReactJS
 
 ## Deployment
 
-Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://spotify.vinayaksingh.in/)
+Spotify is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://spotify.vinayaksingh.in/)
 
 
 ## Features
