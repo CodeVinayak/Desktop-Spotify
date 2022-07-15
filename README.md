@@ -1,7 +1,7 @@
-![Header](https://user-images.githubusercontent.com/72020411/148175452-bd3b7c9b-b66b-40df-9535-d4da3d4ff4db.png)
+![Header](https://github.com/CodeVinayak/Spotify/blob/45550f94de8aba30a69b6e0a8369f573c47d008b/public/Spotify.jpg)
 
 
-# Spotipy
+# Spotify
 
 A modern Web-Based music player made using ReactJS
 
