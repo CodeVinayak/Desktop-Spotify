@@ -1,4 +1,4 @@
-![Header](https://github.com/CodeVinayak/Spotify/blob/45550f94de8aba30a69b6e0a8369f573c47d008b/public/Spotify.jpg)
+![Header](https://github.com/CodeVinayak/Spotify/blob/45550f94de8aba30a69b6e0a8369f573c47d008b/public/Spotify.png)
 
 
 # Spotify
@@ -7,7 +7,7 @@ A modern Web-Based music player made using ReactJS
 
 
 
-![Screenshot](public/screenshot.png?raw=true)
+![Screenshot](https://github.com/CodeVinayak/Spotify/blob/cab3577a05ab8e7e5f97de2d7c53e3b744a12361/public/screenshot.pnge)
 
 ## Deployment
 
