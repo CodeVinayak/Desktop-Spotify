@@ -1,7 +1,7 @@
-![Header](https://user-images.githubusercontent.com/72020411/148175452-bd3b7c9b-b66b-40df-9535-d4da3d4ff4db.png)
+![Header](https://github.com/CodeVinayak/Spotify/blob/45550f94de8aba30a69b6e0a8369f573c47d008b/public/Spotify.jpg)
 
 
-# Spotipy
+# Spotify
 
 A modern Web-Based music player made using ReactJS
 
@@ -11,7 +11,7 @@ A modern Web-Based music player made using ReactJS
 
 ## Deployment
 
-Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://spotify.vinayaksingh.in/)
+Spotify is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://spotify.vinayaksingh.in/)
 
 
 ## Features
@@ -31,13 +31,4 @@ Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clic
 [![React Redux](https://img.shields.io/badge/React%20Redux-7.2.6-lightgrey)](#)
 
 [![React Redux](https://img.shields.io/badge/Redux-4.1.2-red)](#)
-
-
-
-
-## License
-
-Spotipy is an MIT Licensed web application.
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/jessej-samuel/spotipy/blob/master/LICENSE)
 
