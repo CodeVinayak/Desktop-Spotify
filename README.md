@@ -7,7 +7,7 @@ A modern Web-Based music player made using ReactJS
 
 
 
-![Screenshot](https://github.com/CodeVinayak/Spotify/blob/cab3577a05ab8e7e5f97de2d7c53e3b744a12361/public/screenshot.png)
+![Screenshot](https://github.com/CodeVinayak/Spotify/blob/f2abf657ba4292eb09617f3398bdda4d6d6a5784/public/Desktop%20Spotify.png)
 
 ## Deployment
 
